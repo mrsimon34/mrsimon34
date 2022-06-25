@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @mrsimon34
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### About Me
+I'm a rigger / computer animator with over 15 years of professional experience in the AAA games industry.
+Out of office, I participate in various digital communities, typically under the alias 'mrsimon'.
 
-<!---
-mrsimon34/mrsimon34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Skills
+Maya, Python, Photoshop, Unreal Engine, Adobe Premiere, Davinci Resolve, Adobe After Effects, TouchDesigner, Adobe Audition, Ableton Live, PHP, Javascript, FL Studio.
